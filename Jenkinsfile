@@ -34,8 +34,7 @@ pipeline {
     stage('Prod Deploy') {
       steps {
         sh '''pwd
-date
-we'''
+date'''
       }
     }
 
