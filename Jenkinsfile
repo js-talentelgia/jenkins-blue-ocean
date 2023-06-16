@@ -35,7 +35,7 @@ pipeline {
       steps {
         sh '''pwd
 date
-'''
+we'''
       }
     }
 
